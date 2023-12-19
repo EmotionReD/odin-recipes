@@ -4,3 +4,8 @@ h1 {
     background-color: chocolate;
     text-align: center;
 }
+.recipes {
+    font-size: 16px;
+    color: rgba(184, 67, 67, 0.849);
+    background-color: cornsilk;
+}
