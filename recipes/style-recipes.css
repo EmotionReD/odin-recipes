@@ -1,0 +1,18 @@
+h1 {
+    font-size: 32px;
+    color: white;
+    background-color: chocolate;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    font-size: 16px;
+    color: rgba(184, 67, 67, 0.849);
+    background-color: cornsilk;
+}
+h4 {
+    font-size: 16px;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
